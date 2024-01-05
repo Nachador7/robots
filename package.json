@@ -8,7 +8,7 @@
     "react-scripts": "^5.0.1",
     "tachyons": "^4.12.0"
   },
-  "homepage": "git@github.com:Nachador7/robots.git",
+  "homepage": "https://nachador7.github.io/robots/",
 
   "scripts": {
     "predeploy": "npm run build",
