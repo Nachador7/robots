@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Nachador7/robots.git/static/css/main.7ac0daf6.css",
+    "main.js": "/git@github.com:Nachador7/robots.git/static/js/main.ae6935b4.js",
+    "static/media/SEGA.woff": "/git@github.com:Nachador7/robots.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/git@github.com:Nachador7/robots.git/index.html",
+    "main.7ac0daf6.css.map": "/git@github.com:Nachador7/robots.git/static/css/main.7ac0daf6.css.map",
+    "main.ae6935b4.js.map": "/git@github.com:Nachador7/robots.git/static/js/main.ae6935b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac0daf6.css",
+    "static/js/main.ae6935b4.js"
+  ]
+}
