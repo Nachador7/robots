@@ -1,6 +1,3 @@
-Absolutely! Below is a simplified version of the `README.md` that you can copy and paste directly into your GitHub repository. This markdown is designed to be easy to use on GitHub Pages:
-
-```markdown
 # RoboFriends React Exercise
 
 Welcome to the RoboFriends React exercise! This project is a simple React application that fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
@@ -78,14 +75,9 @@ Your app will be accessible at `https://your-username.github.io/robofriends-reac
 
 ## Author
 
-[Your Name]
+Mateusz Nowosielski
 
 ## Acknowledgments
 
 - This project was created as a React exercise.
 - Thanks to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing user data for testing.
-
-Feel free to modify this README according to your preferences and add any additional information about the project.
-```
-
-Simply copy this markdown and paste it into the `README.md` file in your GitHub repository. It should render nicely on GitHub Pages.
