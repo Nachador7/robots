@@ -1,6 +1,6 @@
 # RoboFriends React Exercise
 
-Welcome to the RoboFriends React exercise! This project is a simple React application that fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
+Welcome to the Robots React exercise! This project is a simple React application that fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
 
 ## Getting Started
 
