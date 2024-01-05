@@ -52,7 +52,7 @@ App.js: Main application component.
 App.css: Styles for the application.
 public/: Public assets and the HTML template.
 Author
-[Your Name]
+Mateusz
 
 Acknowledgments
 This project was created as a React exercise.
