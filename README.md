@@ -1,61 +1,91 @@
-Certainly! Here's a basic README.md file that you can use for your React exercise:
+Absolutely! Below is a simplified version of the `README.md` that you can copy and paste directly into your GitHub repository. This markdown is designed to be easy to use on GitHub Pages:
 
-markdown
-Copy code
+```markdown
 # RoboFriends React Exercise
 
-This is a simple React exercise project named RoboFriends. It fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
+Welcome to the RoboFriends React exercise! This project is a simple React application that fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
 
 ## Getting Started
 
 ### Prerequisites
 
-Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+- [Node.js](https://nodejs.org/) installed on your machine.
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/robofriends-react-exercise.git
-Navigate to the project directory:
+   ```
 
-bash
-Copy code
-cd robofriends-react-exercise
-Install dependencies:
+2. **Navigate to the project directory:**
 
-bash
-Copy code
-npm install
-Running the App
-Run the following command to start the development server:
+   ```bash
+   cd robofriends-react-exercise
+   ```
 
-bash
-Copy code
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+## Running the App
+
+```bash
 npm start
-Open http://localhost:3000 in your browser to view the app.
+```
 
-Building for Production
-To build the app for production, run:
+Open [http://localhost:3000](http://localhost:3000) in your web browser to view the app.
 
-bash
-Copy code
+## Building for Production
+
+```bash
 npm run build
-Deploying on GitHub Pages
-Follow the instructions in the deployment section to deploy the app on GitHub Pages.
+```
 
-Folder Structure
-src/: Contains the source code.
-components/: React components.
-App.js: Main application component.
-App.css: Styles for the application.
-public/: Public assets and the HTML template.
+## Deployment on GitHub Pages
 
+1. **Commit your changes:**
 
-Author
-Mateusz
+   ```bash
+   git add .
+   git commit -m "Add descriptive commit message"
+   ```
 
-Acknowledgments
-This project was created as a React exercise.
-Thanks to JSONPlaceholder for providing user data for testing.
+2. **Push to the main branch:**
+
+   ```bash
+   git push origin main
+   ```
+
+3. **Deploy to GitHub Pages:**
+
+   ```bash
+   npm run deploy
+   ```
+
+Your app will be accessible at `https://your-username.github.io/robofriends-react-exercise`.
+
+## Folder Structure
+
+- `src/`: Contains the source code.
+  - `components/`: React components.
+  - `App.js`: Main application component.
+  - `App.css`: Styles for the application.
+- `public/`: Public assets and the HTML template.
+
+## Author
+
+[Your Name]
+
+## Acknowledgments
+
+- This project was created as a React exercise.
+- Thanks to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing user data for testing.
+
+Feel free to modify this README according to your preferences and add any additional information about the project.
+```
+
+Simply copy this markdown and paste it into the `README.md` file in your GitHub repository. It should render nicely on GitHub Pages.
