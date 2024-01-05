@@ -1,3 +1,7 @@
+Certainly! Here's a basic README.md file that you can use for your React exercise:
+
+markdown
+Copy code
 # RoboFriends React Exercise
 
 This is a simple React exercise project named RoboFriends. It fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
