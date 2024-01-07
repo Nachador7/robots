@@ -1,6 +1,6 @@
-# Robots React Exercise
+# Robots React App
 
-Welcome to the Robots React exercise! This project is a simple React application that fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
+Welcome to the Robots React App! This project is a simple React application that fetches user data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API and displays a list of robot cards. Users can search for specific robots using the search functionality.
 
 ## Getting Started
 
@@ -13,13 +13,13 @@ Welcome to the Robots React exercise! This project is a simple React application
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/robofriends-react-exercise.git
+   git clone https://github.com/your-username/robofriends-react-app.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd robofriends-react-exercise
+   cd robofriends-react-app
    ```
 
 3. **Install dependencies:**
@@ -63,7 +63,7 @@ npm run build
    npm run deploy
    ```
 
-Your app will be accessible at `https://your-username.github.io/robofriends-react-exercise`.
+Your app will be accessible at `https://your-username.github.io/robofriends-react-app`.
 
 ## Folder Structure
 
@@ -73,11 +73,6 @@ Your app will be accessible at `https://your-username.github.io/robofriends-reac
   - `App.css`: Styles for the application.
 - `public/`: Public assets and the HTML template.
 
-## Author
-
-Mateusz Nowosielski
-
 ## Acknowledgments
 
-- This project was created as a React exercise.
-- Thanks to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing user data for testing.
+- This project is a React application that displays a list of robot cards using user data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
